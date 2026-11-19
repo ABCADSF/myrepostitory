@@ -1,0 +1,6 @@
+{
+  "name": "Miernik Odległości A→B",
+  "description": "Natywna aplikacja na Androida w Kotlinie i Jetpack Compose (CameraX + SensorManager) do pomiaru odległości między dwoma punktami z architekturą Progressive Enhancement (LITE / STANDARD / ULTRA).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
